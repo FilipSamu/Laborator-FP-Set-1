@@ -1,0 +1,14 @@
+C:\Users\samuf\source\repos\Set 1 Exercitiul 8\Set 1 Exercitiul 8\bin\Debug\net8.0\Set 1 Exercitiul 8.exe
+C:\Users\samuf\source\repos\Set 1 Exercitiul 8\Set 1 Exercitiul 8\bin\Debug\net8.0\Set 1 Exercitiul 8.deps.json
+C:\Users\samuf\source\repos\Set 1 Exercitiul 8\Set 1 Exercitiul 8\bin\Debug\net8.0\Set 1 Exercitiul 8.runtimeconfig.json
+C:\Users\samuf\source\repos\Set 1 Exercitiul 8\Set 1 Exercitiul 8\bin\Debug\net8.0\Set 1 Exercitiul 8.dll
+C:\Users\samuf\source\repos\Set 1 Exercitiul 8\Set 1 Exercitiul 8\bin\Debug\net8.0\Set 1 Exercitiul 8.pdb
+C:\Users\samuf\source\repos\Set 1 Exercitiul 8\Set 1 Exercitiul 8\obj\Debug\net8.0\Set 1 Exercitiul 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuf\source\repos\Set 1 Exercitiul 8\Set 1 Exercitiul 8\obj\Debug\net8.0\Set 1 Exercitiul 8.AssemblyInfoInputs.cache
+C:\Users\samuf\source\repos\Set 1 Exercitiul 8\Set 1 Exercitiul 8\obj\Debug\net8.0\Set 1 Exercitiul 8.AssemblyInfo.cs
+C:\Users\samuf\source\repos\Set 1 Exercitiul 8\Set 1 Exercitiul 8\obj\Debug\net8.0\Set 1 Exercitiul 8.csproj.CoreCompileInputs.cache
+C:\Users\samuf\source\repos\Set 1 Exercitiul 8\Set 1 Exercitiul 8\obj\Debug\net8.0\Set 1 Exercitiul 8.dll
+C:\Users\samuf\source\repos\Set 1 Exercitiul 8\Set 1 Exercitiul 8\obj\Debug\net8.0\refint\Set 1 Exercitiul 8.dll
+C:\Users\samuf\source\repos\Set 1 Exercitiul 8\Set 1 Exercitiul 8\obj\Debug\net8.0\Set 1 Exercitiul 8.pdb
+C:\Users\samuf\source\repos\Set 1 Exercitiul 8\Set 1 Exercitiul 8\obj\Debug\net8.0\Set 1 Exercitiul 8.genruntimeconfig.cache
+C:\Users\samuf\source\repos\Set 1 Exercitiul 8\Set 1 Exercitiul 8\obj\Debug\net8.0\ref\Set 1 Exercitiul 8.dll

@@ -1,0 +1,14 @@
+C:\Users\samuf\source\repos\Set 1 exercitiul 11\Set 1 exercitiul 11\obj\Debug\net8.0\Set 1 exercitiul 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuf\source\repos\Set 1 exercitiul 11\Set 1 exercitiul 11\obj\Debug\net8.0\Set 1 exercitiul 11.AssemblyInfoInputs.cache
+C:\Users\samuf\source\repos\Set 1 exercitiul 11\Set 1 exercitiul 11\obj\Debug\net8.0\Set 1 exercitiul 11.AssemblyInfo.cs
+C:\Users\samuf\source\repos\Set 1 exercitiul 11\Set 1 exercitiul 11\obj\Debug\net8.0\Set 1 exercitiul 11.csproj.CoreCompileInputs.cache
+C:\Users\samuf\source\repos\Set 1 exercitiul 11\Set 1 exercitiul 11\bin\Debug\net8.0\Set 1 exercitiul 11.exe
+C:\Users\samuf\source\repos\Set 1 exercitiul 11\Set 1 exercitiul 11\bin\Debug\net8.0\Set 1 exercitiul 11.deps.json
+C:\Users\samuf\source\repos\Set 1 exercitiul 11\Set 1 exercitiul 11\bin\Debug\net8.0\Set 1 exercitiul 11.runtimeconfig.json
+C:\Users\samuf\source\repos\Set 1 exercitiul 11\Set 1 exercitiul 11\bin\Debug\net8.0\Set 1 exercitiul 11.dll
+C:\Users\samuf\source\repos\Set 1 exercitiul 11\Set 1 exercitiul 11\bin\Debug\net8.0\Set 1 exercitiul 11.pdb
+C:\Users\samuf\source\repos\Set 1 exercitiul 11\Set 1 exercitiul 11\obj\Debug\net8.0\Set 1 exercitiul 11.dll
+C:\Users\samuf\source\repos\Set 1 exercitiul 11\Set 1 exercitiul 11\obj\Debug\net8.0\refint\Set 1 exercitiul 11.dll
+C:\Users\samuf\source\repos\Set 1 exercitiul 11\Set 1 exercitiul 11\obj\Debug\net8.0\Set 1 exercitiul 11.pdb
+C:\Users\samuf\source\repos\Set 1 exercitiul 11\Set 1 exercitiul 11\obj\Debug\net8.0\Set 1 exercitiul 11.genruntimeconfig.cache
+C:\Users\samuf\source\repos\Set 1 exercitiul 11\Set 1 exercitiul 11\obj\Debug\net8.0\ref\Set 1 exercitiul 11.dll

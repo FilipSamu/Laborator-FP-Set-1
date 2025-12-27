@@ -1,0 +1,14 @@
+C:\Users\samuf\source\repos\Set 1 exercitiul 9\Set 1 exercitiul 9\obj\Debug\net8.0\Set 1 exercitiul 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuf\source\repos\Set 1 exercitiul 9\Set 1 exercitiul 9\obj\Debug\net8.0\Set 1 exercitiul 9.AssemblyInfoInputs.cache
+C:\Users\samuf\source\repos\Set 1 exercitiul 9\Set 1 exercitiul 9\obj\Debug\net8.0\Set 1 exercitiul 9.AssemblyInfo.cs
+C:\Users\samuf\source\repos\Set 1 exercitiul 9\Set 1 exercitiul 9\obj\Debug\net8.0\Set 1 exercitiul 9.csproj.CoreCompileInputs.cache
+C:\Users\samuf\source\repos\Set 1 exercitiul 9\Set 1 exercitiul 9\bin\Debug\net8.0\Set 1 exercitiul 9.exe
+C:\Users\samuf\source\repos\Set 1 exercitiul 9\Set 1 exercitiul 9\bin\Debug\net8.0\Set 1 exercitiul 9.deps.json
+C:\Users\samuf\source\repos\Set 1 exercitiul 9\Set 1 exercitiul 9\bin\Debug\net8.0\Set 1 exercitiul 9.runtimeconfig.json
+C:\Users\samuf\source\repos\Set 1 exercitiul 9\Set 1 exercitiul 9\bin\Debug\net8.0\Set 1 exercitiul 9.dll
+C:\Users\samuf\source\repos\Set 1 exercitiul 9\Set 1 exercitiul 9\bin\Debug\net8.0\Set 1 exercitiul 9.pdb
+C:\Users\samuf\source\repos\Set 1 exercitiul 9\Set 1 exercitiul 9\obj\Debug\net8.0\Set 1 exercitiul 9.dll
+C:\Users\samuf\source\repos\Set 1 exercitiul 9\Set 1 exercitiul 9\obj\Debug\net8.0\refint\Set 1 exercitiul 9.dll
+C:\Users\samuf\source\repos\Set 1 exercitiul 9\Set 1 exercitiul 9\obj\Debug\net8.0\Set 1 exercitiul 9.pdb
+C:\Users\samuf\source\repos\Set 1 exercitiul 9\Set 1 exercitiul 9\obj\Debug\net8.0\Set 1 exercitiul 9.genruntimeconfig.cache
+C:\Users\samuf\source\repos\Set 1 exercitiul 9\Set 1 exercitiul 9\obj\Debug\net8.0\ref\Set 1 exercitiul 9.dll

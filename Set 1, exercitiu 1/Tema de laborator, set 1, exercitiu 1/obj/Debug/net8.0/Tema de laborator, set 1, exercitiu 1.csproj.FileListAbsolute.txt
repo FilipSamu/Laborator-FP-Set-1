@@ -1,0 +1,14 @@
+C:\Users\samuf\source\repos\Tema de laborator, set 1, exercitiu 1\Tema de laborator, set 1, exercitiu 1\bin\Debug\net8.0\Tema de laborator, set 1, exercitiu 1.exe
+C:\Users\samuf\source\repos\Tema de laborator, set 1, exercitiu 1\Tema de laborator, set 1, exercitiu 1\bin\Debug\net8.0\Tema de laborator, set 1, exercitiu 1.deps.json
+C:\Users\samuf\source\repos\Tema de laborator, set 1, exercitiu 1\Tema de laborator, set 1, exercitiu 1\bin\Debug\net8.0\Tema de laborator, set 1, exercitiu 1.runtimeconfig.json
+C:\Users\samuf\source\repos\Tema de laborator, set 1, exercitiu 1\Tema de laborator, set 1, exercitiu 1\bin\Debug\net8.0\Tema de laborator, set 1, exercitiu 1.dll
+C:\Users\samuf\source\repos\Tema de laborator, set 1, exercitiu 1\Tema de laborator, set 1, exercitiu 1\bin\Debug\net8.0\Tema de laborator, set 1, exercitiu 1.pdb
+C:\Users\samuf\source\repos\Tema de laborator, set 1, exercitiu 1\Tema de laborator, set 1, exercitiu 1\obj\Debug\net8.0\Tema de laborator, set 1, exercitiu 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuf\source\repos\Tema de laborator, set 1, exercitiu 1\Tema de laborator, set 1, exercitiu 1\obj\Debug\net8.0\Tema de laborator, set 1, exercitiu 1.AssemblyInfoInputs.cache
+C:\Users\samuf\source\repos\Tema de laborator, set 1, exercitiu 1\Tema de laborator, set 1, exercitiu 1\obj\Debug\net8.0\Tema de laborator, set 1, exercitiu 1.AssemblyInfo.cs
+C:\Users\samuf\source\repos\Tema de laborator, set 1, exercitiu 1\Tema de laborator, set 1, exercitiu 1\obj\Debug\net8.0\Tema de laborator, set 1, exercitiu 1.csproj.CoreCompileInputs.cache
+C:\Users\samuf\source\repos\Tema de laborator, set 1, exercitiu 1\Tema de laborator, set 1, exercitiu 1\obj\Debug\net8.0\Tema de laborator, set 1, exercitiu 1.dll
+C:\Users\samuf\source\repos\Tema de laborator, set 1, exercitiu 1\Tema de laborator, set 1, exercitiu 1\obj\Debug\net8.0\refint\Tema de laborator, set 1, exercitiu 1.dll
+C:\Users\samuf\source\repos\Tema de laborator, set 1, exercitiu 1\Tema de laborator, set 1, exercitiu 1\obj\Debug\net8.0\Tema de laborator, set 1, exercitiu 1.pdb
+C:\Users\samuf\source\repos\Tema de laborator, set 1, exercitiu 1\Tema de laborator, set 1, exercitiu 1\obj\Debug\net8.0\Tema de laborator, set 1, exercitiu 1.genruntimeconfig.cache
+C:\Users\samuf\source\repos\Tema de laborator, set 1, exercitiu 1\Tema de laborator, set 1, exercitiu 1\obj\Debug\net8.0\ref\Tema de laborator, set 1, exercitiu 1.dll

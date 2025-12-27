@@ -1,0 +1,14 @@
+C:\Users\samuf\source\repos\Tema laborator set 1 ex 2\Tema laborator set 1 ex 2\bin\Debug\net8.0\Tema laborator set 1 ex 2.exe
+C:\Users\samuf\source\repos\Tema laborator set 1 ex 2\Tema laborator set 1 ex 2\bin\Debug\net8.0\Tema laborator set 1 ex 2.deps.json
+C:\Users\samuf\source\repos\Tema laborator set 1 ex 2\Tema laborator set 1 ex 2\bin\Debug\net8.0\Tema laborator set 1 ex 2.runtimeconfig.json
+C:\Users\samuf\source\repos\Tema laborator set 1 ex 2\Tema laborator set 1 ex 2\bin\Debug\net8.0\Tema laborator set 1 ex 2.dll
+C:\Users\samuf\source\repos\Tema laborator set 1 ex 2\Tema laborator set 1 ex 2\bin\Debug\net8.0\Tema laborator set 1 ex 2.pdb
+C:\Users\samuf\source\repos\Tema laborator set 1 ex 2\Tema laborator set 1 ex 2\obj\Debug\net8.0\Tema laborator set 1 ex 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuf\source\repos\Tema laborator set 1 ex 2\Tema laborator set 1 ex 2\obj\Debug\net8.0\Tema laborator set 1 ex 2.AssemblyInfoInputs.cache
+C:\Users\samuf\source\repos\Tema laborator set 1 ex 2\Tema laborator set 1 ex 2\obj\Debug\net8.0\Tema laborator set 1 ex 2.AssemblyInfo.cs
+C:\Users\samuf\source\repos\Tema laborator set 1 ex 2\Tema laborator set 1 ex 2\obj\Debug\net8.0\Tema laborator set 1 ex 2.csproj.CoreCompileInputs.cache
+C:\Users\samuf\source\repos\Tema laborator set 1 ex 2\Tema laborator set 1 ex 2\obj\Debug\net8.0\Tema laborator set 1 ex 2.dll
+C:\Users\samuf\source\repos\Tema laborator set 1 ex 2\Tema laborator set 1 ex 2\obj\Debug\net8.0\refint\Tema laborator set 1 ex 2.dll
+C:\Users\samuf\source\repos\Tema laborator set 1 ex 2\Tema laborator set 1 ex 2\obj\Debug\net8.0\Tema laborator set 1 ex 2.pdb
+C:\Users\samuf\source\repos\Tema laborator set 1 ex 2\Tema laborator set 1 ex 2\obj\Debug\net8.0\Tema laborator set 1 ex 2.genruntimeconfig.cache
+C:\Users\samuf\source\repos\Tema laborator set 1 ex 2\Tema laborator set 1 ex 2\obj\Debug\net8.0\ref\Tema laborator set 1 ex 2.dll

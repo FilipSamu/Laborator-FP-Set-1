@@ -1,0 +1,14 @@
+C:\Users\samuf\source\repos\Set 1 exercitiul 21\Set 1 exercitiul 21\bin\Debug\net8.0\Set 1 exercitiul 21.exe
+C:\Users\samuf\source\repos\Set 1 exercitiul 21\Set 1 exercitiul 21\bin\Debug\net8.0\Set 1 exercitiul 21.deps.json
+C:\Users\samuf\source\repos\Set 1 exercitiul 21\Set 1 exercitiul 21\bin\Debug\net8.0\Set 1 exercitiul 21.runtimeconfig.json
+C:\Users\samuf\source\repos\Set 1 exercitiul 21\Set 1 exercitiul 21\bin\Debug\net8.0\Set 1 exercitiul 21.dll
+C:\Users\samuf\source\repos\Set 1 exercitiul 21\Set 1 exercitiul 21\bin\Debug\net8.0\Set 1 exercitiul 21.pdb
+C:\Users\samuf\source\repos\Set 1 exercitiul 21\Set 1 exercitiul 21\obj\Debug\net8.0\Set 1 exercitiul 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuf\source\repos\Set 1 exercitiul 21\Set 1 exercitiul 21\obj\Debug\net8.0\Set 1 exercitiul 21.AssemblyInfoInputs.cache
+C:\Users\samuf\source\repos\Set 1 exercitiul 21\Set 1 exercitiul 21\obj\Debug\net8.0\Set 1 exercitiul 21.AssemblyInfo.cs
+C:\Users\samuf\source\repos\Set 1 exercitiul 21\Set 1 exercitiul 21\obj\Debug\net8.0\Set 1 exercitiul 21.csproj.CoreCompileInputs.cache
+C:\Users\samuf\source\repos\Set 1 exercitiul 21\Set 1 exercitiul 21\obj\Debug\net8.0\Set 1 exercitiul 21.dll
+C:\Users\samuf\source\repos\Set 1 exercitiul 21\Set 1 exercitiul 21\obj\Debug\net8.0\refint\Set 1 exercitiul 21.dll
+C:\Users\samuf\source\repos\Set 1 exercitiul 21\Set 1 exercitiul 21\obj\Debug\net8.0\Set 1 exercitiul 21.pdb
+C:\Users\samuf\source\repos\Set 1 exercitiul 21\Set 1 exercitiul 21\obj\Debug\net8.0\Set 1 exercitiul 21.genruntimeconfig.cache
+C:\Users\samuf\source\repos\Set 1 exercitiul 21\Set 1 exercitiul 21\obj\Debug\net8.0\ref\Set 1 exercitiul 21.dll
